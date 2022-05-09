@@ -1,0 +1,47 @@
+﻿  main.cpp
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Music.h(102,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(60,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(61,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(89,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(98,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(107,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(15,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(15,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(16,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(19,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(19,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(20,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(42,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(43,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(47,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(48,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(52,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(53,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(57,40): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Enemy.h(61,40): warning C4244: 'return': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Play.h(331,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Play.h(332,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\GameOver.h(75,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\GameOver.h(76,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\GameOver.h(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\how.h(32,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\how.h(33,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\how.h(50,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Game.h(12,39): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Game.h(12,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\main.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 181 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Proyek SMASHER.vcxproj -> C:\Users\felic\Documents\PBO\Proyek SMASHER\Release\Proyek SMASHER.exe

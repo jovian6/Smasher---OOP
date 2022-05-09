@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Music.h(38,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(61,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(62,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(84,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(84,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(89,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Menu.h(89,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Game.h(8,39): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\Game.h(8,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\main.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\felic\Documents\PBO\Proyek SMASHER\Proyek SMASHER\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Proyek SMASHER.vcxproj -> C:\Users\felic\Documents\PBO\Proyek SMASHER\Debug\Proyek SMASHER.exe
